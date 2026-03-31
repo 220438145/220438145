@@ -8,7 +8,7 @@ I am a motivated Communication Networks student seeking Work-Integrated Learning
 ---
 
 ## CONTACT
-- Phone: +27-012-1471  
+- Phone: +27-64-012-1471  
 - Email: 220438145@mycput.ac.za  
 - Address: 22 Barrack St, Cape Town, 8000  
 
@@ -67,7 +67,7 @@ I am a motivated Communication Networks student seeking Work-Integrated Learning
 
 ### Rebbecca Bure  
 Cape Peninsula University of Technology  
-- Phone: 02-460-3675  
+- Phone: 021-460-3675  
 - Email: burer@cput.ac.za  
 
 ### Lufefe Ndoko  
