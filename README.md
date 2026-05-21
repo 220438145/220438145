@@ -1,4 +1,14 @@
-# LIHLE BHABHATYI
+# Lihle Bhabhatyi Portfolio
+
+## About Me
+
+Hello! My name is **Lihle Bhabhatyi**. I am an Information Technology student passionate about networking, cybersecurity, customer service, and technology solutions.
+
+I enjoy learning new technical skills, solving problems, and working with people. I am currently studying IT at Cape Peninsula University of Technology (CPUT) and continuously improving my knowledge in networking, cybersecurity, and information systems.
+
+---
+
+# Curriculum Vitae (CV)
 
 ---
 
@@ -7,7 +17,7 @@ I am a motivated Communication Networks student seeking Work-Integrated Learning
 
 ---
 
-## CONTACT
+## CONTACT INFORMATION
 - Phone: +27-64-012-1471  
 - Email: 220438145@mycput.ac.za  
 - Address: 22 Barrack St, Cape Town, 8000  
@@ -73,4 +83,66 @@ Cape Peninsula University of Technology
 ### Lufefe Ndoko  
 Walter Sisulu University  
 - Phone: +27-76-226-6612  
-- Email: lufefendoko3@gmail.com  
+- Email: lufefendoko3@gmail.com
+
+---
+
+# Mock Interview Video
+
+## Video Link
+[Download/View Mock Interview Video](./lihlebhabhatyi.mp4)
+
+---
+
+# Reflection on Mock Interview Video (STAR Method)
+
+## Situation
+I participated in a mock interview to improve my communication and interview skills.
+
+## Task
+My responsibility was to answer interview questions professionally and confidently.
+
+## Action
+I prepared answers beforehand, practiced communication skills, and focused on professionalism during the interview.
+
+## Result
+The mock interview improved my confidence, communication, and understanding of professional interview expectations.
+
+---
+
+# GitHub Pages Reflection (STAR Method)
+
+## Situation
+I was required to publish my portfolio online using GitHub Pages.
+
+## Task
+My task was to deploy my Markdown portfolio successfully and make it accessible online.
+
+## Action
+I created a GitHub repository, uploaded my Markdown files, enabled GitHub Pages, and tested the website link.
+
+## Result
+I successfully published my portfolio online and gained practical experience using GitHub Pages for web hosting.
+
+---
+
+# Career Interests
+
+I am interested in building a career in:
+- Cybersecurity
+- Networking
+- IT Support
+- Technical Support
+
+---
+
+# Goals
+
+My goals are to:
+- Gain more experience in the IT industry
+- Improve my cybersecurity and networking skills
+- Build professional experience
+- Continue learning and growing in technology
+
+---
+
