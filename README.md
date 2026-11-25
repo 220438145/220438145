@@ -145,4 +145,20 @@ My goals are to:
 - Continue learning and growing in technology
 
 ---
+# WIL Industry Placement Portfolio - Motivity (Telkom)
+**Student:** [Your Name]
+**Role:** Sales Agent Assistant
+**Manager:** Mishka De Klerk
+**Placement Period:** 1 September – 30 October 2025
 
+## Project Overview
+This repository contains the Agile deliverables for my Work-Integrated Learning (WIL) placement. The project focuses on improving Telkom lead tracking and application accuracy to increase activations (fibre, LTE, voice).
+
+## Deliverables Directory
+Click on the links below to view the deliverables:
+
+1. [Agile Team Charter](01_Team_Charter.md)
+2. [User Stories and Tasks](02_User_Stories.md)
+3. [Product Backlog](03_Product_Backlog.md)
+4. [Sprint Backlog](https://trello.com/b/k2AWKmRD)
+5. [Agile Logbook](05_Agile_Logbook.md)
