@@ -157,8 +157,8 @@ This repository contains the Agile deliverables for my Work-Integrated Learning 
 ## Deliverables Directory
 Click on the links below to view the deliverables:
 
-1. [Agile Team Charter](01_Team_Charter.md)
-2. [User Stories and Tasks](02_User_Stories.md)
-3. [Product Backlog](03_Product_Backlog.md)
+1. [Agile Team Charter](Agile_Team_Chater.docx)
+2. [User Stories and Tasks](User_Stories_and_Tasks_docx)
+3. [Product Backlog](Product_Backlog_docx)
 4. [Sprint Backlog](https://trello.com/b/k2AWKmRD)
-5. [Agile Logbook](05_Agile_Logbook.md)
+5. [Agile Logbook](Agile_Logbook.docx)
